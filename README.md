@@ -70,7 +70,7 @@ This **Fake Data Generator v2** is a powerful Python script designed to create r
 ### **Steps**  
 1. **Clone or download the script:**  
    ```bash
-   git clone [REPO_LINK]  # (if available)
+   git clone https://github.com/Comradehacker1120/FakeDataGeneratorV1
    ```
 2. **Install dependencies (optional for Telegram):**  
    ```bash
@@ -182,10 +182,3 @@ This tool is **open for customization** and meant for **ethical testing**. Use r
 🚀 **Happy (fake) data generating!** 🚀  
 
 ```  
-
-### **How to Copy This README**  
-1. **Click the "Copy" button** (if available).  
-2. **OR** manually select all text (**Ctrl+A** then **Ctrl+C** on Windows/Linux, **Cmd+A** then **Cmd+C** on Mac).  
-3. Paste into a `README.md` file.  
-
-This version is **detailed, structured, and ready for professional use** while keeping key information organized. 🚀
